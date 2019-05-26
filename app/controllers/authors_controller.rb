@@ -88,3 +88,4 @@ end
       redirect_to new_login_url # halts request cycle
     end
 end
+end
